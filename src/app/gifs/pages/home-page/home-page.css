@@ -1,0 +1,6 @@
+#home-page {
+  position: relative;
+  left: 250px; /* Ajusta este valor para que el contenido principal se alinee a la derecha del sidebar */
+  padding: 20px; /* Opcional: Agrega un padding para darle espacio al contenido */
+  width: calc(100% - 250px); /* Ajusta el ancho para ocupar el espacio restante */
+}
